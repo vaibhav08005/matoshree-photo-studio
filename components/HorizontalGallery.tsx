@@ -11,42 +11,42 @@ const projects: Project[] = [
     title: "Royal Destination",
     category: "Destination Wedding",
     year: "2023",
-    image: "/images/portfolio/destination.png"
+    image: "images/portfolio/destination.png"
   }, // Generated Premium Image
   {
     id: 2,
     title: "Candid Moments",
     category: "Candid",
     year: "2024",
-    image: "/images/portfolio/candid.jpg"
+    image: "images/portfolio/candid.jpg"
   }, // Candid Couple
   {
     id: 3,
     title: "Love Journey",
     category: "Pre-Wedding",
     year: "2023",
-    image: "/images/portfolio/pre_wedding.jpg"
+    image: "images/portfolio/pre_wedding.jpg"
   }, // Pre-wedding outdoor
   {
     id: 4,
     title: "The Big Day",
     category: "Wedding",
     year: "2024",
-    image: "/images/portfolio/wedding.jpg"
+    image: "images/portfolio/wedding.jpg"
   }, // Maharashtrian/Traditional Wedding
   {
     id: 5,
     title: "New Life",
     category: "Newborn",
     year: "2024",
-    image: "/images/portfolio/newborn.jpg"
+    image: "images/portfolio/newborn.jpg"
   }, // Newborn Baby
   {
     id: 6,
     title: "Cinematic Tales",
     category: "Videography",
     year: "2023",
-    image: "/images/portfolio/videography.jpg"
+    image: "images/portfolio/videography.jpg"
   }, // Videography/Camera
 ];
 
